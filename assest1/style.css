@@ -1,0 +1,19 @@
+.logo {
+    width: -50%;
+    border-radius: 900px;
+    border: 15px double ;
+}
+
+li{
+display: inline;
+margin:;
+}
+
+.card{
+    width: 70%;
+    margin: 20px auto;
+    border: 5px solid white;
+    border-radius: 5px;
+    background-color: aliceblue;
+    box-shadow: inset 0 0 8px antiquewhite, 5px 5px 0 rgba(255, 0, 0, 0.632);
+}
